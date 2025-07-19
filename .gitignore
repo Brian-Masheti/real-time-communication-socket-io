@@ -1,0 +1,32 @@
+# Node.js (Server)
+node_modules/
+server/.env
+server/logs/
+server/*.log
+server/npm-debug.log*
+
+# Vite + React (Client)
+client/node_modules/
+client/.env
+client/.env.local
+client/.env.development
+client/.env.production
+client/vite.config.js.timestamp-*
+client/vite.config.ts.timestamp-*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS and Misc
+.DS_Store
+Thumbs.db
+
+# Build Outputs
+*.log
+coverage/
