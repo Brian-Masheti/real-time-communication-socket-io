@@ -70,10 +70,10 @@ A real-time chat application built with React, Express, and Socket.io. Supports 
 ## Screenshots
 
 ### Login Screen
-![Login Screen](public/login.png)
+![Login Screen](./login.png)
 
 ### Room Chat
-![Room Chat](public/room.png)
+![Room Chat](./room.png)
 
 ## Deployment (Optional)
 - Deploy the server to [Render](https://render.com/), [Railway](https://railway.app/), or [Heroku](https://heroku.com/).
