@@ -87,8 +87,9 @@ A real-time chat application built with React, Express, and Socket.io. Supports 
 - To commit and push changes, use:
   ```bash
   commit "Your commit message"
-  push
-  # or pushall
+  pushnew (pushes to new branch)
+  push (pushes to current branch)
+  # or pushall (pushes to all branches)
   ```
 
 ## Troubleshooting
@@ -97,5 +98,5 @@ A real-time chat application built with React, Express, and Socket.io. Supports 
 - For file uploads, make sure the server's `/uploads` directory is writable.
 
 ## Credits
-- Built by Brian Masheti for the PLP Feb 2025 Cohort, Week 5 Assignment.
+- Built by Brian Masheti.
 - Powered by React, Express, and Socket.io.
