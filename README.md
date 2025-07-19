@@ -68,7 +68,12 @@ A real-time chat application built with React, Express, and Socket.io. Supports 
 - See notifications for new messages and user activity.
 
 ## Screenshots
-> _Add screenshots or GIFs here to showcase your app!_
+
+### Login Screen
+![Login Screen](public/login.png)
+
+### Room Chat
+![Room Chat](public/room.png)
 
 ## Deployment (Optional)
 - Deploy the server to [Render](https://render.com/), [Railway](https://railway.app/), or [Heroku](https://heroku.com/).
